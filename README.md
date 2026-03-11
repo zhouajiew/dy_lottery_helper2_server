@@ -1,10 +1,14 @@
 # dy_lottery_helper2_server
 ## 蓝奏云下载地址
 ```
-https://wwauw.lanzouu.com/ihLoT3jfib7e
+https://wwauw.lanzouu.com/iOX393kci51a
 ```
 ## dy_lottery_helper项目的可多开版本的服务端
 此项目将查找直播间的算法单独用一个程序处理，尽可能避免单IP受到影响
+
+## 2026/03/11
+## 版本1.2.0
+修复了由于抖音官方更新导致的福袋信息无法被获取到的bug
 
 ## 2026/02/28
 ## 版本1.1.0
