@@ -1,10 +1,16 @@
 # dy_lottery_helper2_server
 ## 蓝奏云下载地址
 ```
-https://wwauw.lanzouu.com/iQsHY3ldoywd
+https://wwauw.lanzouu.com/itUGN3luq5md
 ```
 ## dy_lottery_helper项目的可多开版本的服务端
 此项目将查找直播间的算法单独用一个程序处理，尽可能避免单IP受到影响
+
+## 2026/03/29
+## 版本1.6.0
+现在用于查找直播间的浏览器会定时(每两小时)切换账号，以确保能比较稳定地调用接口
+
+**两个账号在不同的浏览器上，请确保这两个浏览器你都扫码登录了账号**
 
 ## 2026/03/24
 ## 版本1.5.0
